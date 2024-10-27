@@ -1,0 +1,43 @@
+.page{
+    height: 150vh;
+    background: #2B3035;
+}
+
+
+.tailleContainer{
+    padding-right: 15vw;
+    padding-left: 15vw;
+}
+.logoBootstrap{
+    height: 7vh;
+    width: 9vh;
+}
+.textHeader{
+    font-size: 1em;
+}
+.boiteGauche{
+    width: 65%;
+}
+.boiteDroite{
+    width: 30%;
+}
+.tailleTextLabel{
+    font-size: 0.85em;
+}
+.nameForm{
+    height: 3.5vh;
+}
+.couleurFond{
+    background: #2B3035;
+}
+.tailleSelect{
+    width: 35%;
+}
+.tailleSelect2{
+    width: 30%;
+}
+.petitTexte{
+    font-size: 0.75em;
+}
+.tailleBouton{
+}
