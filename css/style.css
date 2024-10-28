@@ -1,5 +1,5 @@
 .page{
-    height: 150vh;
+    height: 165vh;
     background: #2B3035;
 }
 
@@ -39,5 +39,6 @@
 .petitTexte{
     font-size: 0.75em;
 }
-.tailleBouton{
+.footer{
+    height: 10vh;
 }
